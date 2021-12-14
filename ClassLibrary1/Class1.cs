@@ -4,7 +4,7 @@
     
         public class CalCulator
         {
-            // Ededin quvvete ozu qeder quvvete yukseldilmesi   
+            // Ededin ozune vurulmasi   
             public double Quvvet (double  reqem)
             {
                 return reqem* reqem;
